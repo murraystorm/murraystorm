@@ -38,7 +38,7 @@
 
 ## Other Development Skills:
 <p align="center">
-    Some of the development tools, enviroments, frameworks and languages I have successfully completed projects with in the past
+    The unreasonibly long list of some of the development tools, operating systems, enviroments, frameworks and languages I have successfully completed projects with in the past.
 </p>
 <p align="center">
     <img src="https://img.icons8.com/color/69/000000/raspberry-pi.png" alt="Raspberry Pi OS" style="vertical-align:top; margin:4px"/>
@@ -66,6 +66,9 @@
     <img src="https://img.icons8.com/color/69/000000/windows-95.png" alt="Windows 95" style="vertical-align:top; margin:4px"/>
     <img src="https://img.icons8.com/color/69/000000/windows-xp.png" alt="Windows XP" style="vertical-align:top; margin:4px"/>
     <img src="https://img.icons8.com/color/69/000000/windows-8.png" alt="Windows 8" style="vertical-align:top; margin:4px"/>
+    <img src="https://cdn.cdnlogo.com/logos/m/64/microsoft-windows-2000.svg" alt="Windows 2000" height="69" style="vertical-align:top; margin:4px"> 
+    <img src="https://cdn.cdnlogo.com/logos/m/13/microsoft-windows-7-wordmark.svg" alt="Windows 7" height="69" style="vertical-align:top; margin:4px"> 
+    <img src="https://cdn.cdnlogo.com/logos/m/22/microsoft-windows.svg" alt="Windows 3.1" height="69" style="vertical-align:top; margin:4px"> 
     <img src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px"/>
     <img src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px"/>
     <img src="https://img.icons8.com/color/69/000000/android-os.png" alt="Android" style="vertical-align:top; margin:4px" />
