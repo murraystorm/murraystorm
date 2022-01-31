@@ -12,7 +12,7 @@
 <p align="center">
     <img src="https://img.icons8.com/color/69/000000/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.cdnlogo.com/logos/h/90/html.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/flask.png" alt="flask" height="40" style="vertical-align:top; margin:4px">  
     <img src="https://img.icons8.com/color/69/000000/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
