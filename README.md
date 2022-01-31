@@ -29,7 +29,7 @@
             <div align="center">MySQL<div>
         </td>
         <td>
-            <img align="center" src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="69" style="vertical-align:top; margin:4px">
+            <img align="center" src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="50" style="vertical-align:top; margin:4px">
             <div align="center">SQLite<div>
         </td>
     </tr>
@@ -60,7 +60,7 @@
     <tr>
         <td>
             <img align="center" src="https://img.icons8.com/fluency/69/000000/azure-1.png" alt="Microsoft Azure" style="vertical-align:top; margin:4px">
-            <div align="center">Microsoft Azure<div>
+            <div align="center">Azure<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/windows-10.png" alt="Windows 10" style="vertical-align:top; margin:4px"/>
