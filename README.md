@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ruby.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rubygems.svg" alt="Ruby Gems" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rubyonrails.svg" alt="Ruby on Rails" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplus.svg" alt="cplus" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## Applications, Enviroments and Tools
