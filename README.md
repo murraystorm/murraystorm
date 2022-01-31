@@ -10,9 +10,9 @@
     Development tools, enviroments, frameworks and languages that I am currently focused on and using in projects
 </p>
 
-``Languages``
+  ``Languages``
 
-<table align="center" style="padding:10px;">
+<table align="center" style="padding:10px;border: none !important;">
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px">
