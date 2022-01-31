@@ -38,7 +38,7 @@
             MySQL
         </td>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="40" style="vertical-align:top; margin:4px">
+            <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="69" style="vertical-align:top; margin:4px">
             <br />
             SQLite
         </td>
