@@ -49,5 +49,5 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/microsoftoutlook.svg" alt="Microsoft Outlook" height="40" style="vertical-align:top; margin:4px">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/microsoftteams.svg" alt="Microsoft Teams" height="40" style="vertical-align:top; margin:4px">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/xampp.svg" alt="Xampp" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://img.icons8.com/color/48/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px">
+    <img src="https://img.icons8.com/color/100/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px">
 </p>
