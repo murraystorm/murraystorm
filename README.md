@@ -101,7 +101,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/m/22/microsoft-windows.svg" alt="Windows 3.1" height="69" style="vertical-align:top; margin:4px" /> 
+            <img src="https://cdn.cdnlogo.com/logos/m/22/windows.svg" alt="Windows 3.1" height="69" style="vertical-align:top; margin:4px" /> 
             <div align="center">Microsoft<div>
             <div align="center">Windows<div>
         </td>
