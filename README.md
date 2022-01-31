@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-    
-![alt text](https://img.icons8.com/color/69/000000/html-5--v1.png "HTML")
-
+    <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
 </p>
 
 <table align="center" style="padding:5px;">
