@@ -73,7 +73,7 @@
     The unreasonibly long list of some of the development tools, operating systems, enviroments, frameworks and languages I have successfully completed projects with in the past.
 </p>
 <p align="center">
-    <img align="center" src="https://img.icons8.com/color/69/000000/php.png" alt="PHP" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/wordpress.png" alt="WordPress" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" alt="Laravel" height="69" style="vertical-align:top; margin:4px" /> 
     <img align="center" src="https://cdn.cdnlogo.com/logos/p/53/phpmailer.svg" alt="PHP Mailer" height="69" style="vertical-align:top; margin:4px" /> 
@@ -91,6 +91,7 @@
     <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
 </p>
 
 <table align="center" style="padding:5px;">
