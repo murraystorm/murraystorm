@@ -12,7 +12,7 @@
 
 ``Languages``
 
-<table style="padding:10px;margin-left: auto;margin-right: auto;">
+<table align="center" style="padding:10px;">
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px">
