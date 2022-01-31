@@ -72,16 +72,6 @@
 <p align="center">
     The unreasonibly long list of some of the development tools, operating systems, enviroments, frameworks and languages I have successfully completed projects with in the past.
 </p>
-<p align="center">  
-    <img align="center" src="https://img.icons8.com/color/69/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
-    <img align="center" src="https://img.icons8.com/color/69/000000/office-365.png" alt="Microsoft Office" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Slack" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://cdn.cdnlogo.com/logos/m/73/microsoft-onedrive.svg" alt="Microsoft One Drive" height="69" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://cdn.cdnlogo.com/logos/m/25/microsoft-outlook.svg" alt="Microsoft Outlook" height="69" style="vertical-align:top; margin:4px" /> 
-    <img align="center" src="https://img.icons8.com/color/69/000000/microsoft-teams.png" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
-</p>
 
 <table align="center" style="padding:5px;">
     <tr>
@@ -187,6 +177,39 @@
             <img align="center" src="https://cdn.cdnlogo.com/logos/m/64/microsoft-windows-2000.svg" alt="Windows 2000" height="69" style="vertical-align:top; margin:4px" />
             <div align="center">Microsoft<div>
             <div align="center">Windows 2000<div>
+        </td>
+    </tr>
+</table>
+
+<table align="center" style="padding:5px;">
+    <tr>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px" />
+            <div align="center" >C<div>
+        </td>
+        <td>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
+            <div align="center">CPanel<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
+            <div align="center">Arduino<div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Slack" style="vertical-align:top; margin:4px" />
+            <div align="center" >Slack<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/microsoft-teams.png" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
+            <div align="center">Microsoft<div>
+            <div align="center">Teams<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/office-365.png" alt="Microsoft Office" style="vertical-align:top; margin:4px" />
+            <div align="center">Office<div>
+            <div align="center">365<div>
         </td>
     </tr>
 </table>
