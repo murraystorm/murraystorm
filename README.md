@@ -84,20 +84,11 @@
     <img align="center" src="https://img.icons8.com/color/69/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
     <img align="center" src="https://img.icons8.com/color/69/000000/office-365.png" alt="Microsoft Office" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Windows" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/windows.png" alt="Windows" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Slack" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://cdn.cdnlogo.com/logos/m/73/microsoft-onedrive.svg" alt="Microsoft One Drive" height="69" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://cdn.cdnlogo.com/logos/m/25/microsoft-outlook.svg" alt="Microsoft Outlook" height="69" style="vertical-align:top; margin:4px" /> 
     <img align="center" src="https://img.icons8.com/color/69/000000/microsoft-teams.png" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/dos.png" alt="MS DOS" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/microsoft.png" alt="Windows" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/windows-95.png" alt="Windows 95" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/windows-xp.png" alt="Windows XP" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://cdn.cdnlogo.com/logos/w/10/windows-8.png" alt="Windows 2000" height="69" style="vertical-align:top; margin:4px" /> 
-    <img align="center" src="https://cdn.cdnlogo.com/logos/m/64/microsoft-windows-2000.svg" alt="Windows 2000" height="69" style="vertical-align:top; margin:4px" /> 
-    <img align="center" src="https://cdn.cdnlogo.com/logos/w/30/windows-7.png" alt="Windows 7" height="69" style="vertical-align:top; margin:4px" /> 
-    <img align="center" src="https://cdn.cdnlogo.com/logos/m/22/microsoft-windows.svg" alt="Windows 3.1" height="69" style="vertical-align:top; margin:4px" /> 
     <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/android-os.png" alt="Android" style="vertical-align:top; margin:4px" />
@@ -124,32 +115,35 @@
 <table align="center" style="padding:5px;">
     <tr>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/linux--v1.png" alt="Linux" style="vertical-align:top; margin:4px" />
-            <div align="center">Linux<div>
+            <img align="center" src="https://img.icons8.com/color/69/000000/dos.png" alt="MS DOS" style="vertical-align:top; margin:4px" />
+            <div align="center">MS-DOS<div>
         </td>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/raspberry-pi.png" alt="Raspberry Pi OS" style="vertical-align:top; margin:4px" />
-            <div align="center" style="word-wrap:break-word;">Raspberry<div>
-            <div align="center" style="word-wrap:break-word;">Pi OS<div>
+            <img align="center" src="https://img.icons8.com/color/69/000000/windows-95.png" alt="Windows 95" style="vertical-align:top; margin:4px" />
+            <div align="center" style="word-wrap:break-word;">Microsoft<div>
+            <div align="center" style="word-wrap:break-word;">Windows 95<div>
         </td>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" alt="Ubuntu" style="vertical-align:top; margin:4px" />
-            <div align="center">Ubuntu<div>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/m/22/microsoft-windows.svg" alt="Windows 3.1" height="69" style="vertical-align:top; margin:4px" /> 
+            <div align="center">Microsoft<div>
+            <div align="center">Windows 3.1<div>
         </td>
     </tr>
     <tr>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/linux--v1.png" alt="Linux" style="vertical-align:top; margin:4px" />
-            <div align="center">Linux<div>
+            <img align="center" src="https://img.icons8.com/color/69/000000/windows-xp.png" alt="Windows XP" style="vertical-align:top; margin:4px" />
+            <div align="center">Microsoft<div>
+            <div align="center">Windows XP<div>
         </td>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/raspberry-pi.png" alt="Raspberry Pi OS" style="vertical-align:top; margin:4px" />
-            <div align="center" style="word-wrap:break-word;">Raspberry<div>
-            <div align="center" style="word-wrap:break-word;">Pi OS<div>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/m/64/microsoft-windows-2000.svg" alt="Windows 2000" height="69" style="vertical-align:top; margin:4px" />
+            <div align="center">Microsoft<div>
+            <div align="center">Windows 2000<div>
         </td>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" alt="Ubuntu" style="vertical-align:top; margin:4px" />
-            <div align="center">Ubuntu<div>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/w/30/windows-7.png" alt="Windows 7" height="69" style="vertical-align:top; margin:4px" /> 
+            <div align="center">Microsoft<div>
+            <div align="center">Windows 7<div>
         </td>
     </tr>
 </table>
