@@ -40,7 +40,7 @@
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" alt="VS Code" style="vertical-align:top; margin:4px">
-            <div align="center">Visual Studio<div>
+            <div align="center">VS Code<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/cloudflare.png" alt="Cloudflare" style="vertical-align:top; margin:4px">
