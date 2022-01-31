@@ -25,10 +25,6 @@
             <div align="center">Python<div>
         </td>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/flask.png" alt="Flask" style="vertical-align:top; margin:4px">
-            <div align="center">Flask<div>
-        </td>
-        <td>
             <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px">
             <div align="center">MySQL<div>
         </td>
@@ -39,13 +35,26 @@
     </tr>
 </table>
 
-### Tools
-<p align="center">
-    <img src="https://img.icons8.com/color/69/000000/git.png" alt="git" style="vertical-align:top; margin:4px">
-    <img src="https://img.icons8.com/color/69/000000/github.png" alt="github" style="vertical-align:top; margin:4px">
-    <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" alt="VS Code" style="vertical-align:top; margin:4px">
-    <img src="https://img.icons8.com/color/69/000000/cloudflare.png" alt="Cloudflare" style="vertical-align:top; margin:4px">
-</p>
+<table align="center" style="padding:10px;border: none !important;">
+    <tr>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/git.png" alt="git" style="vertical-align:top; margin:4px">
+            <div align="center">Git<div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/github.png" alt="github" style="vertical-align:top; margin:4px">
+            <div align="center">GitHub<div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" alt="VS Code" style="vertical-align:top; margin:4px">
+            <div align="center">Visual Studio<div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/cloudflare.png" alt="Cloudflare" style="vertical-align:top; margin:4px">
+            <div align="center">CloudFlare<div>
+        </td>
+    </tr>
+</table>
 
 ### Environments
 <p align="center">
