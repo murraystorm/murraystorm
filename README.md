@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cloudflare.svg" alt="Cloudflare" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/confluence.svg" alt="Confluence" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azure.svg" alt="Azure" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xampp.svg" alt="Xampp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xcode.svg" alt="X-Code" height="40" style="vertical-align:top; margin:4px">
 </p>
