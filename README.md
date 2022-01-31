@@ -90,7 +90,6 @@
     <img align="center" src="https://img.icons8.com/color/69/000000/microsoft-teams.png" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
 </p>
 
@@ -140,9 +139,8 @@
             <div align="center">Windows 2000<div>
         </td>
         <td>
-            <img align="center" src="https://cdn.cdnlogo.com/logos/w/30/windows-7.png" alt="Windows 7" height="69" style="vertical-align:top; margin:4px" /> 
-            <div align="center">Microsoft<div>
-            <div align="center">Windows 7<div>
+            <img align="center" src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px" />
+            <div align="center">Mac OS<div>
         </td>
     </tr>
 </table>
