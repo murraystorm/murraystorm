@@ -91,6 +91,7 @@
     <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/atom.png" alt="Atom" style="vertical-align:top; margin:4px" />
 </p>
 
 <table align="center" style="padding:5px;">
