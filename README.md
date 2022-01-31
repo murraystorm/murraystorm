@@ -25,7 +25,7 @@
 </p>
 <p align="center">
     <img src="https://img.icons8.com/color/69/000000/wordpress.png" alt="WordPress" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://img.icons8.com/color/69/000000/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.cdnlogo.com/logos/l/57/laravel.svg" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/ruby.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/rubygems.png" alt="Ruby Gems" height="40" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/rubyonrails.png" alt="Ruby on Rails" height="40" style="vertical-align:top; margin:4px">
