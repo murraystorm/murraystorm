@@ -56,13 +56,26 @@
     </tr>
 </table>
 
-### Environments
-<p align="center">
-    <img src="https://img.icons8.com/color/69/000000/debian.png" alt="Debian" style="vertical-align:top; margin:4px"/>
-    <img src="https://img.icons8.com/color/69/000000/windows-10.png" alt="Windows 10" style="vertical-align:top; margin:4px"/>
-    <img src="https://img.icons8.com/color/69/000000/windows-11.png" alt="Windows 11" style="vertical-align:top; margin:4px"/>
-    <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" alt="Microsoft Azure" style="vertical-align:top; margin:4px">
-</p>
+<table align="center" style="padding:10px;border: none !important;">
+    <tr>
+        <td>
+            <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" alt="Microsoft Azure" style="vertical-align:top; margin:4px">
+            <div align="center">Microsoft Azure<div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/windows-10.png" alt="Windows 10" style="vertical-align:top; margin:4px"/>
+            <div align="center">Windows 10<div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/windows-11.png" alt="Windows 11" style="vertical-align:top; margin:4px"/>
+            <div align="center">Windows 11<div>
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/debian.png" alt="Debian" style="vertical-align:top; margin:4px"/>
+            <div align="center">Debian<div>
+        </td>
+    </tr>
+</table>
 
 ## Other Development Skills:
 <p align="center">
