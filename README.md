@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## Applications, Enviroments and Tools
-<p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cpanel.svg" alt="CPanel" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cloudflare.svg" alt="Cloudflare" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/confluence.svg" alt="Confluence" height="40" style="vertical-align:top; margin:4px">
