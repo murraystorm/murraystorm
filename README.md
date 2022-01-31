@@ -14,26 +14,32 @@
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px">
+            <br />
             HTML
         </td>
         <td>
             <img src="https://img.icons8.com/color/69/000000/javascript.png" alt="Javascript" style="vertical-align:top; margin:4px">
+            <br />
             Javascript
         </td>
         <td>
             <img src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px">
+            <br />
             Python
         </td>
         <td>
             <img src="https://img.icons8.com/color/69/000000/flask.png" alt="Flask" style="vertical-align:top; margin:4px">
+            <br />
             Flask
         </td>
         <td>
             <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px">
+            <br />
             MySQL
         </td>
         <td>
             <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="40" style="vertical-align:top; margin:4px">
+            <br />
             SQLite
         </td>
     </tr>
