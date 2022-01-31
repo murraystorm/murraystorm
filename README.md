@@ -7,7 +7,7 @@
 
 ## Current Core Skills:
 <p align="center">
-    Development tools, enviroments, frameworks and languages that I am currently focused on and using in projects
+    Development tools, environments, frameworks and languages that I am currently focused on and using in projects
 </p>
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 ## Other Skills:
 <p align="center">
-    The unreasonibly long list of some of the development tools, operating systems, enviroments, frameworks and languages I have successfully completed projects with in the past.
+    The unreasonibly long list of some of the development tools, operating systems, environments, frameworks and languages I have successfully completed projects with in the past.
 </p>
 
 <table align="center" style="padding:5px;">
