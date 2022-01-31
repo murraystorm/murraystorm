@@ -73,7 +73,7 @@
     The unreasonibly long list of some of the development tools, operating systems, enviroments, frameworks and languages I have successfully completed projects with in the past.
 </p>
 <p align="center">
-    <img align="center" src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="69" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="50" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/wordpress.png" alt="WordPress" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" alt="Laravel" height="69" style="vertical-align:top; margin:4px" /> 
     <img align="center" src="https://cdn.cdnlogo.com/logos/p/53/phpmailer.svg" alt="PHP Mailer" height="69" style="vertical-align:top; margin:4px" /> 
