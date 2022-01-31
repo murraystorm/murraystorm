@@ -10,6 +10,8 @@
     Development tools, enviroments, frameworks and languages that I am currently focused on and using in projects
 </p>
 
+![alt text](https://img.icons8.com/color/69/000000/html-5--v1.png "HTML")
+
 <table align="center" style="padding:5px;">
     <tr>
         <td>
