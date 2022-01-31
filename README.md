@@ -24,7 +24,7 @@
 <p align="center">
     <img src="https://img.icons8.com/color/69/000000/git.png" alt="git" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/github.png" alt="github" style="vertical-align:top; margin:4px">
-    <img src="https://img.icons8.com/color/69/000000/visual-studio-code.png" alt="VS Code" style="vertical-align:top; margin:4px">
+    <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" alt="VS Code" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/cloudflare.png" alt="Cloudflare" style="vertical-align:top; margin:4px">
 </p>
 
