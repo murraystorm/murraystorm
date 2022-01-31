@@ -51,7 +51,7 @@
     <img src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" alt="Ruby" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/ruby-gem.png" alt="Ruby Gems" style="vertical-align:top; margin:4px">
     <img src="https://cdn.cdnlogo.com/logos/r/18/rubygems.svg" alt="Ruby Gems" height="69" style="vertical-align:top; margin:4px"> 
-    <img src="https://cdn.cdnlogo.com/logos/r/26/rails.svg" alt="Ruby on Rails" height="69" style="vertical-align:top; margin:4px"> 
+    <img src="https://cdn.cdnlogo.com/logos/r/26/rails.svg" alt="Ruby on Rails" height="40" style="vertical-align:top; margin:4px"> 
     <img src="https://img.icons8.com/color/69/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px">
     <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px"> 
     <img src="https://img.icons8.com/color/69/000000/office-365.png" alt="Microsoft Office" style="vertical-align:top; margin:4px">
