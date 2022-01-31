@@ -193,8 +193,7 @@
         </td>
         <td>
             <img src="https://img.icons8.com/color/69/000000/amazon-web-services.png" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
-            <div align="center">Amazon<div>
-            <div align="center">Web Services<div>
+            <div align="center">AWS<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Slack" style="vertical-align:top; margin:4px" />
