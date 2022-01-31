@@ -10,6 +10,11 @@
     Development tools, enviroments, frameworks and languages that I am currently focused on and using in projects
 </p>
 
+| Left-aligned | Center-aligned | Right-aligned |
+|     :---:    |     :---:      |     :---:     |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 <table align="center" style="padding:10px;border: none !important;">
     <tr>
         <td>
