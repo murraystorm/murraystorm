@@ -10,27 +10,31 @@
     Development tools, enviroments, frameworks and languages that I am currently focused on and using in projects
 </p>
 
-  ``Languages``
-
 <table align="center" style="padding:10px;border: none !important;">
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px">
+            HTML
         </td>
         <td>
             <img src="https://img.icons8.com/color/69/000000/javascript.png" alt="Javascript" style="vertical-align:top; margin:4px">
+            Javascript
         </td>
         <td>
             <img src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px">
+            Python
         </td>
         <td>
             <img src="https://img.icons8.com/color/69/000000/flask.png" alt="Flask" style="vertical-align:top; margin:4px">
+            Flask
         </td>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px">  
+            <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px">
+            MySQL
         </td>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="40" style="vertical-align:top; margin:4px"> 
+            <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="40" style="vertical-align:top; margin:4px">
+            SQLite
         </td>
     </tr>
 </table>
