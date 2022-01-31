@@ -138,5 +138,10 @@
             <div align="center">Microsoft<div>
             <div align="center">Windows 2000<div>
         </td>
+        <td>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/w/30/windows-7.png" alt="Windows 7" height="69" style="vertical-align:top; margin:4px" /> 
+            <div align="center">Microsoft<div>
+            <div align="center">Windows 7<div>
+        </td>
     </tr>
 </table>
