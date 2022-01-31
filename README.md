@@ -68,7 +68,7 @@
     </tr>
 </table>
 
-## Other Development Skills:
+## Other Skills:
 <p align="center">
     The unreasonibly long list of some of the development tools, operating systems, enviroments, frameworks and languages I have successfully completed projects with in the past.
 </p>
@@ -115,6 +115,8 @@
     </tr>
 </table>
 
+``Operating Systems``
+
 <table align="center" style="padding:5px;">
     <tr>
         <td>
@@ -145,69 +147,6 @@
             <img align="center" src="https://cdn.cdnlogo.com/logos/w/30/windows-7.png" alt="Windows 7" height="69" style="vertical-align:top; margin:4px" /> 
             <div align="center">Microsoft<div>
             <div align="center">Windows 7<div>
-        </td>
-    </tr>
-</table>
-
-<table align="center" style="padding:5px;">
-    <tr>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px" />
-            <div align="center">MySQL<div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px" />
-            <div align="center">HTML<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/javascript.png" alt="Javascript" style="vertical-align:top; margin:4px" />
-            <div align="center">Javascript<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px" />
-            <div align="center">Python<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px" />
-            <div align="center">MySQL<div>
-        </td>
-    </tr>
-        <tr>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px" />
-            <div align="center">HTML<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/javascript.png" alt="Javascript" style="vertical-align:top; margin:4px" />
-            <div align="center">Javascript<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px" />
-            <div align="center">Python<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px" />
-            <div align="center">MySQL<div>
-        </td>
-    </tr>
-        <tr>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px" />
-            <div align="center">HTML<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/javascript.png" alt="Javascript" style="vertical-align:top; margin:4px" />
-            <div align="center">Javascript<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px" />
-            <div align="center">Python<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px" />
-            <div align="center">MySQL<div>
         </td>
     </tr>
 </table>
