@@ -192,8 +192,9 @@
             <div align="center">CPanel<div>
         </td>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
-            <div align="center">Arduino<div>
+            <img align="center" src="https://img.icons8.com/color/69/000000/aws.png" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
+            <div align="center">Amazon<div>
+            <div align="center">Web Services<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Slack" style="vertical-align:top; margin:4px" />
