@@ -8,17 +8,9 @@
 ## Current Core Skills:
 <p align="center">
     Development tools, enviroments, frameworks and languages that I am currently focused on and using in projects
-
-| Left-aligned | Center-aligned | Right-aligned |
-|     :---:    |     :---:      |     :---:     |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
 </p>
 
-
-
-<table align="center" style="padding:10px;border: none !important;">
+<table align="center" style="padding:5px;">
     <tr>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px">
@@ -36,14 +28,7 @@
             <img align="center" src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px">
             <div align="center">MySQL<div>
         </td>
-        <td>
-            <img align="center" src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="50" style="vertical-align:top; margin:4px">
-            <div align="center">SQLite<div>
-        </td>
     </tr>
-</table>
-
-<table align="center" style="padding:10px;border: none !important;">
     <tr>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/git.png" alt="git" style="vertical-align:top; margin:4px">
@@ -62,13 +47,10 @@
             <div align="center">CloudFlare<div>
         </td>
     </tr>
-</table>
-
-<table align="center" style="padding:10px;border: none !important;">
     <tr>
         <td>
             <img align="center" src="https://img.icons8.com/fluency/69/000000/azure-1.png" alt="Microsoft Azure" style="vertical-align:top; margin:4px">
-            <div align="center">Azure<div>
+            <div align="center">Microsoft Azure<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/windows-10.png" alt="Windows 10" style="vertical-align:top; margin:4px"/>
@@ -121,4 +103,5 @@
     <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px"/>
     <img align="center" src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px"/>
     <img align="center" src="https://img.icons8.com/color/69/000000/android-os.png" alt="Android" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="69" style="vertical-align:top; margin:4px">
 </p>
