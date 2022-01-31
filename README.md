@@ -101,12 +101,12 @@
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/m/22/windows.svg" alt="Windows 3.1" height="69" style="vertical-align:top; margin:4px" /> 
+            <img src="https://img.icons8.com/color/48/000000/windows-11.png" title="Microsoft Windows" alt="Microsoft Windows" height="69" style="vertical-align:top; margin:4px" /> 
             <div align="center">Microsoft<div>
             <div align="center">Windows<div>
         </td>
         <td>
-            <p>>Basically every major version of Windows since inception both client and server:</p>
+            <p>Basically every major version of Windows since inception both client and server:</p>
             <div>Microsoft Windows 3.1</div>
             <div>Microsoft Windows 95</div>
             <div>Microsoft Windows 98SE</div>
