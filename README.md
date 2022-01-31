@@ -87,16 +87,7 @@
             <div align="center">Linux<div>
         </td>
         <td>
-            Ubuntu, Raspberry Pi OS
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://img.icons8.com/color/69/000000/android-os.png" alt="Android" style="vertical-align:top; margin:4px" />
-            <div align="center">Android<div>
-        </td>
-        <td>
-            Android
+            Ubuntu, Raspberry Pi OS and a smattering of Android versions from Marshmellow to current
         </td>
     </tr>
     <tr>
@@ -129,43 +120,37 @@
             <div>Microsoft Windows Server 2022</div>
         </td>
     </tr>
-</table>
-
-<table align="center" style="padding:5px;">
-    <tr>
-    </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px" />    
+            <img src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px" />   
+            <div align="center">MacOS<div>
+        </td>
+        <td>
+            <p>Most versions since Tiger:</p>
+            <div>Mac OS X 10.4 Tiger</div>
+            <div>Mac OS X 10.5 Leopard</div>
+            <div>Mac OS X 10.6 Snow Leopard</div>
+            <div>Mac OS X 10.7 Lion</div>
+            <div>Mac OS X 10.8 Mountain Lion</div>
+            <div>Mac OS X 10.9 Mavericks</div>
+            <div>Mac OS X 10.10 Yosemite</div>
+            <div>Mac OS X 10.11 El Capitan</div>
+            <div>Mac macOS 10.12 Sierra</div>
+            <div>Mac macOS 10.13 High Sierra</div>
+            <div>Mac macOS 10.14 Mojave</div>
+            <div>Mac macOS 10.15 Catalina</div>
+            <div>Mac macOS 11 Big Sur</div>
+            <div>Mac macOS 12 Monterey</div>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/dos.png" alt="MS DOS" style="vertical-align:top; margin:4px" />
+            <img src="https://img.icons8.com/color/69/000000/dos.png" title="MS-DOS" alt="MS-DOS" style="vertical-align:top; margin:4px" />
             <div align="center">MS-DOS<div>
         </td>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/windows-95.png" alt="Windows 95" style="vertical-align:top; margin:4px" />
-            <div align="center" >Microsoft<div>
-            <div align="center" >Windows 95<div>
-        </td>
-        <td>
-            
-            <div align="center">Microsoft<div>
-            <div align="center">Windows 3.1<div>
-        </td>
-        <td>
-            <img src="https://img.icons8.com/color/69/000000/windows-xp.png" alt="Windows XP" style="vertical-align:top; margin:4px" />
-            <div align="center">Microsoft<div>
-            <div align="center">Windows XP<div>
-        </td>
-        <td>
-            <img src="https://cdn.cdnlogo.com/logos/m/64/microsoft-windows-2000.svg" alt="Windows 2000" height="69" style="vertical-align:top; margin:4px" />
-            <div align="center">Microsoft<div>
-            <div align="center">Windows 2000<div>
+            MS-DOS 1.x, 2.x, 3.x, 4.x, 5.x, 6.x and the 7/8 versions which came paired with Windows from then on.
         </td>
     </tr>
-</table>
-
-                
+</table>         
 
