@@ -1,4 +1,4 @@
-<p align="center">## Find me on:
+## Find me on:
 <p align="center">
     <a href="https://www.linkedin.com/in/murraystorm/" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://img.icons8.com/color/69/000000/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:4px" />
@@ -19,7 +19,7 @@
 <table align="center" style="padding:5px;">
     <tr>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px" />
+            <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
             <div align="center">HTML<div>
         </td>
         <td>
