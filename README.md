@@ -39,6 +39,7 @@
             <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="flask" height="69" style="vertical-align:top; margin:4px"> 
         </td>
     </tr>
+</table>
 
 ### Tools
 <p align="center">
