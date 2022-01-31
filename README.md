@@ -87,8 +87,9 @@
             <div align="center">Linux<div>
         </td>
         <td>
-            <div>Ubuntu (Everything from Warty to the modern stable releases, mostly on the server side)</div>
-            <div>Raspberry Pi OS</div>
+            <div>Slackware from around 8.0 to 13.37</div>
+            <div>Ubuntu - Everything from Warty to the modern stable releases, mostly on the server side</div>
+            <div>Raspberry Pi OS / Raspbian 7 (Wheezy) and up</div>
             <div>A smattering of Android versions from Marshmellow to current</div>
         </td>
     </tr>
