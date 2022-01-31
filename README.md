@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/flask.png" alt="flask" style="vertical-align:top; margin:4px">  
     <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="flask" style="vertical-align:top; margin:4px">  
-    <img src="https://cdn.cdnlogo.com/logos/s/69/sqlite.svg" alt="flask" style="vertical-align:top; margin:4px"> 
+    <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="flask" height="69" style="vertical-align:top; margin:4px"> 
 </p>
 
 ### Tools
