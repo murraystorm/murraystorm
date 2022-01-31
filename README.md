@@ -76,20 +76,17 @@
 <table align="center" style="padding:5px;">
     <tr>
         <td>
-            <img align="center" src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
-            <div align="center" >PHP<div>
+            <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
+            <div align="center" >X-Code<div>
         </td>
         <td>
-            <img align="center" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" alt="Laravel" height="69" style="vertical-align:top; margin:4px" />
-            <div align="center">Laravel<div>
+            <img align="center" src="https://img.icons8.com/color/69/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
+            <div align="center">Sublime<div>
+            <div align="center">Text<div>
         </td>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/wordpress.png" alt="WordPress" style="vertical-align:top; margin:4px" />
-            <div align="center">WordPress<div>
-        </td>
-        <td>
-            <img align="center" src="https://cdn.cdnlogo.com/logos/p/53/phpmailer.svg" alt="PHP Mailer" height="69" style="vertical-align:top; margin:4px" />
-            <div align="center">PHP Mailer<div>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
+            <div align="center">Atom<div>
         </td>
     </tr>
 </table>
@@ -114,17 +111,20 @@
 <table align="center" style="padding:5px;">
     <tr>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
-            <div align="center" >X-Code<div>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
+            <div align="center" >PHP<div>
         </td>
         <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
-            <div align="center">Sublime<div>
-            <div align="center">Text<div>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" alt="Laravel" height="69" style="vertical-align:top; margin:4px" />
+            <div align="center">Laravel<div>
         </td>
         <td>
-            <img align="center" src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
-            <div align="center">Atom<div>
+            <img align="center" src="https://img.icons8.com/color/69/000000/wordpress.png" alt="WordPress" style="vertical-align:top; margin:4px" />
+            <div align="center">WordPress<div>
+        </td>
+        <td>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/p/53/phpmailer.svg" alt="PHP Mailer" height="69" style="vertical-align:top; margin:4px" />
+            <div align="center">PHP Mailer<div>
         </td>
     </tr>
 </table>
