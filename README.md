@@ -10,11 +10,9 @@
     Development tools, enviroments, frameworks and languages that I am currently focused on and using in projects
 </p>
 
-### Languages
-
 ``Languages``
 
-<table style="padding:10px;">
+<table style="padding:10px;margin-left: auto;margin-right: auto;">
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px">
