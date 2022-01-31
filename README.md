@@ -50,7 +50,8 @@
     <tr>
         <td>
             <img align="center" src="https://img.icons8.com/fluency/69/000000/azure-1.png" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
-            <div align="center">Azure<div>
+            <div align="center" style="word-wrap:break-word;">Microsoft<div>
+            <div align="center" style="word-wrap:break-word;">Azure<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/windows-10.png" alt="Windows 10" style="vertical-align:top; margin:4px" />
@@ -123,11 +124,44 @@
 <table align="center" style="padding:5px;">
     <tr>
         <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/linux--v1.png" alt="Linux" style="vertical-align:top; margin:4px" />
+            <div align="center">Linux<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/raspberry-pi.png" alt="Raspberry Pi OS" style="vertical-align:top; margin:4px" />
+            <div align="center" style="word-wrap:break-word;">Raspberry<div>
+            <div align="center" style="word-wrap:break-word;">Pi OS<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" alt="Ubuntu" style="vertical-align:top; margin:4px" />
+            <div align="center">Ubuntu<div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/linux--v1.png" alt="Linux" style="vertical-align:top; margin:4px" />
+            <div align="center">Linux<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/raspberry-pi.png" alt="Raspberry Pi OS" style="vertical-align:top; margin:4px" />
+            <div align="center" style="word-wrap:break-word;">Raspberry<div>
+            <div align="center" style="word-wrap:break-word;">Pi OS<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" alt="Ubuntu" style="vertical-align:top; margin:4px" />
+            <div align="center">Ubuntu<div>
+        </td>
+    </tr>
+</table>
+
+<table align="center" style="padding:5px;">
+    <tr>
+        <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px" />
             <div align="center">MySQL<div>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" alt="HTML" style="vertical-align:top; margin:4px" />
             <div align="center">HTML<div>
