@@ -1,7 +1,7 @@
 ## Find me on:
 <p align="center">
     <a href="https://www.linkedin.com/in/murraystorm/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.cdnlogo.com/logos/l/75/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://img.icons8.com/color/69/000000/linkedin.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
