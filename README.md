@@ -46,12 +46,14 @@
     <img src="https://img.icons8.com/color/69/000000/linux--v1.png" alt="Linux" style="vertical-align:top; margin:4px"/>
     <img src="https://img.icons8.com/color/69/000000/php.png" alt="PHP" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/wordpress.png" alt="WordPress" style="vertical-align:top; margin:4px">
-    <img src="https://img.icons8.com/color/69/000000/laravel.png" alt="Laravel" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" alt="Laravel" height="69" style="vertical-align:top; margin:4px"> 
+    <img src="https://cdn.cdnlogo.com/logos/p/53/phpmailer.svg" alt="PHP Mailer" height="69" style="vertical-align:top; margin:4px"> 
     <img src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" alt="Ruby" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/ruby-gem.png" alt="Ruby Gems" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/rubyonrails.png" alt="Ruby on Rails" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/cpanel.png" alt="CPanel" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px"> 
     <img src="https://img.icons8.com/color/69/000000/office-365.png" alt="Microsoft Office" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Windows" style="vertical-align:top; margin:4px">
     <img src="https://img.icons8.com/color/69/000000/windows.png" alt="Windows" style="vertical-align:top; margin:4px">
