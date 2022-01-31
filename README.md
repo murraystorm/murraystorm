@@ -12,7 +12,9 @@
 
 ### Languages
 
-<table>
+``Languages``
+
+<table style="padding:10px">
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px">
