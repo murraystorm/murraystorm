@@ -14,13 +14,13 @@
 
 ``Languages``
 
-<table style="padding:10px">
+<table style="padding:10px;">
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px">
         </td>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/flask.png" alt="flask" style="vertical-align:top; margin:4px">
+            <img src="https://img.icons8.com/color/69/000000/flask.png" alt="Flask" style="vertical-align:top; margin:4px">
         </td>
     </tr>
     <tr>
@@ -33,10 +33,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="flask" style="vertical-align:top; margin:4px">  
+            <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px">  
         </td>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="flask" height="69" style="vertical-align:top; margin:4px"> 
+            <img src="https://cdn.cdnlogo.com/logos/s/41/sqlite.svg" alt="SQLite" height="40" style="vertical-align:top; margin:4px"> 
         </td>
     </tr>
 </table>
