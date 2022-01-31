@@ -25,7 +25,7 @@
 
 ## Other Skills:
 <p align="center">
-    The unreasonibly long list of some of the development tools, operating systems, environments, frameworks and languages I have successfully completed projects with in the past.
+    The unreasonably long list of some of the development tools, operating systems, environments, frameworks and languages I have successfully completed projects with in the past.
 </p>
 
 <div align="center">
