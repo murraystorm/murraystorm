@@ -112,17 +112,12 @@
             <img align="center" src="https://img.icons8.com/color/69/000000/android-os.png" alt="Android" style="vertical-align:top; margin:4px" />
             <div align="center">Android<div>
         </td>
-    </tr>
-</table>
-
-``Operating Systems``
-
-<table align="center" style="padding:5px;">
-    <tr>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/dos.png" alt="MS DOS" style="vertical-align:top; margin:4px" />
             <div align="center">MS-DOS<div>
         </td>
+    </tr>
+    <tr>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/windows-95.png" alt="Windows 95" style="vertical-align:top; margin:4px" />
             <div align="center" style="word-wrap:break-word;">Microsoft<div>
@@ -142,11 +137,6 @@
             <img align="center" src="https://cdn.cdnlogo.com/logos/m/64/microsoft-windows-2000.svg" alt="Windows 2000" height="69" style="vertical-align:top; margin:4px" />
             <div align="center">Microsoft<div>
             <div align="center">Windows 2000<div>
-        </td>
-        <td>
-            <img align="center" src="https://cdn.cdnlogo.com/logos/w/30/windows-7.png" alt="Windows 7" height="69" style="vertical-align:top; margin:4px" /> 
-            <div align="center">Microsoft<div>
-            <div align="center">Windows 7<div>
         </td>
     </tr>
 </table>
