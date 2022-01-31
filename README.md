@@ -91,7 +91,6 @@
     <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/android-os.png" alt="Android" style="vertical-align:top; margin:4px" />
 </p>
 
 <table align="center" style="padding:5px;">
@@ -108,6 +107,10 @@
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" alt="Ubuntu" style="vertical-align:top; margin:4px" />
             <div align="center">Ubuntu<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/android-os.png" alt="Android" style="vertical-align:top; margin:4px" />
+            <div align="center">Android<div>
         </td>
     </tr>
 </table>
