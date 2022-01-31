@@ -12,65 +12,20 @@
 
 <p align="center">
     <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/javascript.png" alt="Javascript" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/git.png" alt="git" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/github.png" alt="github" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" alt="VS Code" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/cloudflare.png" alt="Cloudflare" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/fluency/69/000000/azure-1.png" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/windows-10.png" alt="Windows 10" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/windows-11.png" alt="Windows 11" style="vertical-align:top; margin:4px" />
+    <img align="center" src="https://img.icons8.com/color/69/000000/debian.png" alt="Debian" style="vertical-align:top; margin:4px" />
 </p>
 
-<table align="center" style="padding:5px;">
-    <tr>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
-            <div align="center">HTML<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/javascript.png" alt="Javascript" style="vertical-align:top; margin:4px" />
-            <div align="center">Javascript<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/python.png" alt="Python" style="vertical-align:top; margin:4px" />
-            <div align="center">Python<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/mysql-logo.png" alt="MySQL" style="vertical-align:top; margin:4px" />
-            <div align="center">MySQL<div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/git.png" alt="git" style="vertical-align:top; margin:4px" />
-            <div align="center">Git<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/github.png" alt="github" style="vertical-align:top; margin:4px" />
-            <div align="center">GitHub<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" alt="VS Code" style="vertical-align:top; margin:4px" />
-            <div align="center">VS Code<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/cloudflare.png" alt="Cloudflare" style="vertical-align:top; margin:4px" />
-            <div align="center">CloudFlare<div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img align="center" src="https://img.icons8.com/fluency/69/000000/azure-1.png" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
-            <div align="center" >Microsoft<div>
-            <div align="center" >Azure<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/windows-10.png" alt="Windows 10" style="vertical-align:top; margin:4px" />
-            <div align="center">Windows 10<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/windows-11.png" alt="Windows 11" style="vertical-align:top; margin:4px" />
-            <div align="center">Windows 11<div>
-        </td>
-        <td>
-            <img align="center" src="https://img.icons8.com/color/69/000000/debian.png" alt="Debian" style="vertical-align:top; margin:4px" />
-            <div align="center">Debian<div>
-        </td>
-    </tr>
-</table>
 
 ## Other Skills:
 <p align="center">
