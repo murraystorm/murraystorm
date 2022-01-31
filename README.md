@@ -195,8 +195,6 @@
             <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
             <div align="center">Arduino<div>
         </td>
-    </tr>
-    <tr>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Slack" style="vertical-align:top; margin:4px" />
             <div align="center" >Slack<div>
