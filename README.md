@@ -88,11 +88,26 @@
     <img align="center" src="https://cdn.cdnlogo.com/logos/m/73/microsoft-onedrive.svg" alt="Microsoft One Drive" height="69" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://cdn.cdnlogo.com/logos/m/25/microsoft-outlook.svg" alt="Microsoft Outlook" height="69" style="vertical-align:top; margin:4px" /> 
     <img align="center" src="https://img.icons8.com/color/69/000000/microsoft-teams.png" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
 </p>
+
+<table align="center" style="padding:5px;">
+    <tr>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
+            <div align="center" style="word-wrap:break-word;">X-Code<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
+            <div align="center">Sublime<div>
+            <div align="center">Text<div>
+        </td>
+        <td>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
+            <div align="center">Atom<div>
+        </td>
+    </tr>
+</table>
 
 <table align="center" style="padding:5px;">
     <tr>
