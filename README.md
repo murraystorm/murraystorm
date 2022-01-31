@@ -110,7 +110,7 @@
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/raspberry-pi.png" alt="Raspberry Pi OS" style="vertical-align:top; margin:4px" />
-            <div align="center">Raspberry Pi OS<div>
+            <div align="center" style="word-wrap:break-word;">Raspberry Pi OS<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" alt="Ubuntu" style="vertical-align:top; margin:4px" />
