@@ -131,8 +131,6 @@
             <div align="center">Microsoft<div>
             <div align="center">Windows 3.1<div>
         </td>
-    </tr>
-    <tr>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/windows-xp.png" alt="Windows XP" style="vertical-align:top; margin:4px" />
             <div align="center">Microsoft<div>
