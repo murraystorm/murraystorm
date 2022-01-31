@@ -50,8 +50,8 @@
     <tr>
         <td>
             <img align="center" src="https://img.icons8.com/fluency/69/000000/azure-1.png" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
-            <div align="center" style="word-wrap:break-word;">Microsoft<div>
-            <div align="center" style="word-wrap:break-word;">Azure<div>
+            <div align="center" >Microsoft<div>
+            <div align="center" >Azure<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/windows-10.png" alt="Windows 10" style="vertical-align:top; margin:4px" />
@@ -72,15 +72,7 @@
 <p align="center">
     The unreasonibly long list of some of the development tools, operating systems, enviroments, frameworks and languages I have successfully completed projects with in the past.
 </p>
-<p align="center">
-    <img align="center" src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/wordpress.png" alt="WordPress" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" alt="Laravel" height="69" style="vertical-align:top; margin:4px" /> 
-    <img align="center" src="https://cdn.cdnlogo.com/logos/p/53/phpmailer.svg" alt="PHP Mailer" height="69" style="vertical-align:top; margin:4px" /> 
-    <img align="center" src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" alt="Ruby" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://img.icons8.com/color/69/000000/ruby-gem.png" alt="Ruby Gems" style="vertical-align:top; margin:4px" />
-    <img align="center" src="https://cdn.cdnlogo.com/logos/r/18/rubygems.svg" alt="Ruby Gems" height="69" style="vertical-align:top; margin:4px" /> 
-    <img align="center" src="https://cdn.cdnlogo.com/logos/r/26/rails.svg" alt="Ruby on Rails" height="40" style="vertical-align:top; margin:4px" /> 
+<p align="center">  
     <img align="center" src="https://img.icons8.com/color/69/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px" />
     <img align="center" src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
     <img align="center" src="https://img.icons8.com/color/69/000000/office-365.png" alt="Microsoft Office" style="vertical-align:top; margin:4px" />
@@ -94,8 +86,46 @@
 <table align="center" style="padding:5px;">
     <tr>
         <td>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
+            <div align="center" >PHP<div>
+        </td>
+        <td>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" alt="Laravel" height="69" style="vertical-align:top; margin:4px" />
+            <div align="center">Laravel<div>
+        </td>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/wordpress.png" alt="WordPress" style="vertical-align:top; margin:4px" />
+            <div align="center">WordPress<div>
+        </td>
+        <td>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/p/53/phpmailer.svg" alt="PHP Mailer" height="69" style="vertical-align:top; margin:4px" />
+            <div align="center">PHP Mailer<div>
+        </td>
+    </tr>
+</table>
+
+<table align="center" style="padding:5px;">
+    <tr>
+        <td>
+            <img align="center" src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" alt="Ruby" style="vertical-align:top; margin:4px" />
+            <div align="center" >Ruby<div>
+        </td>
+        <td>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/r/18/rubygems.svg" alt="Ruby Gems" height="69" style="vertical-align:top; margin:4px" /> 
+            <div align="center">Ruby Gems<div>
+        </td>
+        <td>
+            <img align="center" src="https://cdn.cdnlogo.com/logos/r/26/rails.svg" alt="Ruby on Rails" height="40" style="vertical-align:top; margin:4px" />
+            <div align="center">Ruby on Rails<div>
+        </td>
+    </tr>
+</table>
+
+<table align="center" style="padding:5px;">
+    <tr>
+        <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
-            <div align="center" style="word-wrap:break-word;">X-Code<div>
+            <div align="center" >X-Code<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
@@ -121,8 +151,8 @@
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/raspberry-pi.png" alt="Raspberry Pi OS" style="vertical-align:top; margin:4px" />
-            <div align="center" style="word-wrap:break-word;">Raspberry<div>
-            <div align="center" style="word-wrap:break-word;">Pi OS<div>
+            <div align="center" >Raspberry<div>
+            <div align="center" >Pi OS<div>
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" alt="Ubuntu" style="vertical-align:top; margin:4px" />
@@ -140,8 +170,8 @@
         </td>
         <td>
             <img align="center" src="https://img.icons8.com/color/69/000000/windows-95.png" alt="Windows 95" style="vertical-align:top; margin:4px" />
-            <div align="center" style="word-wrap:break-word;">Microsoft<div>
-            <div align="center" style="word-wrap:break-word;">Windows 95<div>
+            <div align="center" >Microsoft<div>
+            <div align="center" >Windows 95<div>
         </td>
         <td>
             <img align="center" src="https://cdn.cdnlogo.com/logos/m/22/microsoft-windows.svg" alt="Windows 3.1" height="69" style="vertical-align:top; margin:4px" /> 
