@@ -87,7 +87,9 @@
             <div align="center">Linux<div>
         </td>
         <td>
-            Ubuntu, Raspberry Pi OS and a smattering of Android versions from Marshmellow to current
+            <div>Ubuntu (Everything from Warty to the modern stable releases, mostly on the server side)</div>
+            <div>Raspberry Pi OS</div>
+            <div>A smattering of Android versions from Marshmellow to current</div>
         </td>
     </tr>
     <tr>
@@ -149,7 +151,14 @@
             <div align="center">MS-DOS<div>
         </td>
         <td>
-            MS-DOS 1.x, 2.x, 3.x, 4.x, 5.x, 6.x and the 7/8 versions which came paired with Windows from then on.
+            <p>Getting into the real old 5¼-inch floppy days if your this far down the list but here we go:</p>
+            <div>MS-DOS 1.x</div>
+            <div>MS-DOS 2.x</div>
+            <div>MS-DOS 3.x</div>
+            <div>MS-DOS 4.x</div>
+            <div>MS-DOS 5.x</div>
+            <div>MS-DOS 6.x</div>
+            <div>and the 7/8 versions which came paired with Windows from then on.</div>
         </td>
     </tr>
 </table>         
