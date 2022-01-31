@@ -34,7 +34,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/visualstudiocode.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## Core Applications, Enviroments and Tools
+## Other Applications, Enviroments and Tools
 <p align="center">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/cpanel.svg" alt="CPanel" height="40" style="vertical-align:top; margin:4px">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/windows.svg" alt="Windows" height="40" style="vertical-align:top; margin:4px">
