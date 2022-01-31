@@ -67,7 +67,7 @@
     <img src="https://img.icons8.com/color/69/000000/windows-xp.png" alt="Windows XP" style="vertical-align:top; margin:4px"/>
     <img src="https://cdn.cdnlogo.com/logos/w/10/windows-8.png" alt="Windows 2000" height="69" style="vertical-align:top; margin:4px"> 
     <img src="https://cdn.cdnlogo.com/logos/m/64/microsoft-windows-2000.svg" alt="Windows 2000" height="69" style="vertical-align:top; margin:4px"> 
-    <img src="https://cdn.cdnlogo.com/logos/w/30/windows-7.png" alt="Windows 7" height="48" style="vertical-align:top; margin:4px"> 
+    <img src="https://cdn.cdnlogo.com/logos/w/30/windows-7.png" alt="Windows 7" height="69" style="vertical-align:top; margin:4px"> 
     <img src="https://cdn.cdnlogo.com/logos/m/22/microsoft-windows.svg" alt="Windows 3.1" height="69" style="vertical-align:top; margin:4px"> 
     <img src="https://img.icons8.com/color/69/000000/arduino.png" alt="Arduino" style="vertical-align:top; margin:4px"/>
     <img src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px"/>
