@@ -154,7 +154,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" title="Slackware Linux" alt="Slackware Linux" height="40"style="vertical-align:top; margin:4px" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" title="Slackware Linux" alt="Slackware Linux" height="69"style="vertical-align:top; margin:4px" />
             <div align="center">Slackware<div>
         </td>
         <td>
