@@ -299,6 +299,15 @@ A few relevant professional formal credentials that I have:
             <div>and the 7/8 versions which came paired with Windows from then on.</div>
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
+            <div align="center">CPanel<div>
+        </td>
+        <td>
+            WHM/CPanel based hosting, backend configuration, secure management and APIs
+        </td>
+    </tr>
      <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/amazon-web-services.png" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
@@ -311,15 +320,6 @@ A few relevant professional formal credentials that I have:
             <div>S3 Storage</div>
             <div>Elastic Block Storage (EBS)</div>
             <div>Amazon Relational Database Service (RDS) </div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
-            <div align="center">CPanel<div>
-        </td>
-        <td>
-            WHM/CPanel based hosting, backend configuration, secure management and APIs
         </td>
     </tr>
     <tr>
