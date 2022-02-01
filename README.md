@@ -16,6 +16,7 @@ A few relevant professional formal credentials that I have:
         </td>
         <td>
             <a href="https://www.credly.com/badges/87351260-bdba-4c52-9d82-5075fc2b36cb">Microsoft 365 Certified: Modern Desk Administrator Associate</a>
+            <div>Credential ID 1039-2649</div>
         </td>
     </tr>
     <tr>
@@ -24,6 +25,7 @@ A few relevant professional formal credentials that I have:
         </td>
         <td>
             <a href="https://www.credly.com/badges/7d6fb58a-ff2e-453f-906d-a9e5ee54462b">Microsoft Certified: Azure Fundamentals</a>
+            <div>Credential ID H718-4626</div>
         </td>
     </tr>
     <tr>
