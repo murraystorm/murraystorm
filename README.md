@@ -281,7 +281,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/48/000000/ios-logo.png" title="iOS" alt="iOS" style="vertical-align:top; margin:4px" />   
+            <img src="https://img.icons8.com/color/69/000000/ios-logo.png" title="iOS" alt="iOS" style="vertical-align:top; margin:4px" />   
             <div align="center">iOS and iPadOS<div>
         </td>
         <td>
