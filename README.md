@@ -5,6 +5,30 @@
     </a>
 </p>
 
+## Professional Credentials
+
+A few relevant formal credentials
+
+<table align="center" style="padding:5px;">
+    <tr>
+        <td>
+            <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
+            <a href="https://www.credly.com/badges/87351260-bdba-4c52-9d82-5075fc2b36cb">Microsoft 365 Certified: Modern Desk Administrator Associate</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
+            <a href="https://www.credly.com/badges/7d6fb58a-ff2e-453f-906d-a9e5ee54462b">Microsoft Certified: Azure Fundamentals</a>
+        </td>
+    </tr>
+</table>
+
+
 ## Current Core Skills:
 <p align="center">
     This is a list of Development tools, environments, frameworks and languages that I am currently focused on and using in active projects. At present this is a heavy focus on Azure and Flask based apps.
@@ -18,7 +42,6 @@
     <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
 </div>
-
 
 ## Other Skills:
 <p align="center">
