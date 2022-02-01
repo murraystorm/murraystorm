@@ -27,7 +27,7 @@
         <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://azure.microsoft.com/en-au/">
-        <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/fluency/100/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
     </a>
 </div>
 
@@ -40,7 +40,7 @@
     <tr>
         <td>
             <a href="https://docs.microsoft.com/en-us/learn/certifications/">
-                <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/fluency/100/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -51,7 +51,7 @@
     <tr>
         <td>
             <a href="https://docs.microsoft.com/en-us/learn/certifications/">
-                <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/fluency/100/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -62,7 +62,7 @@
     <tr>
         <td>
             <a href="https://docs.microsoft.com/en-us/learn/certifications/">
-                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="100" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -73,7 +73,7 @@
     <tr>
         <td>
             <a href="https://docs.microsoft.com/en-us/learn/certifications/">
-                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="100" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -84,7 +84,7 @@
     <tr>
         <td>
             <a href="https://docs.microsoft.com/en-us/learn/certifications/">
-                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="100" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -95,7 +95,7 @@
     <tr>
         <td>
             <a href="https://docs.microsoft.com/en-us/learn/certifications/">
-                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="100" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -106,7 +106,7 @@
     <tr>
         <td>
             <a href="https://docs.microsoft.com/en-us/learn/certifications/">
-                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="100" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -117,7 +117,7 @@
     <tr>
         <td>
             <a href="https://docs.microsoft.com/en-us/learn/certifications/">
-                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+                <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="100" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -128,7 +128,7 @@
     <tr>
         <td>
             <a href="https://www.comptia.org/certifications/security">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" title="Comptia" alt="Comptia" width="69" style="vertical-align:top; margin:4px" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" title="Comptia" alt="Comptia" width="100" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -140,7 +140,7 @@
     <tr>
         <td>
             <a href="https://www.comptia.org/certifications/network">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" title="Comptia" alt="Comptia" width="69" style="vertical-align:top; margin:4px" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" title="Comptia" alt="Comptia" width="100" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -152,7 +152,7 @@
     <tr>
         <td>
             <a href="https://www.comptia.org/certifications/a">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" title="Comptia" alt="Comptia" width="69" style="vertical-align:top; margin:4px" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" title="Comptia" alt="Comptia" width="100" style="vertical-align:top; margin:4px" />
             </a>
         </td>
         <td>
@@ -207,7 +207,7 @@
     <tr>
         <td>
             <a href="https://microsoft.com">
-                <img src="https://img.icons8.com/color/100/000000/windows-11.png" title="Microsoft Windows" alt="Microsoft Windows" height="69" style="vertical-align:top; margin:4px" /> 
+                <img src="https://img.icons8.com/color/100/000000/windows-11.png" title="Microsoft Windows" alt="Microsoft Windows" height="100" style="vertical-align:top; margin:4px" /> 
                 <div align="center">Microsoft<div>
                 <div align="center">Windows<div>
             </a>
@@ -376,7 +376,7 @@
     <tr>
         <td>
             <a href="http://www.slackware.com/">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" title="Slackware Linux" alt="Slackware Linux" height="69"style="vertical-align:top; margin:4px" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" title="Slackware Linux" alt="Slackware Linux" height="100"style="vertical-align:top; margin:4px" />
                 <div align="center">Slackware<div>
             </a>
         </td>
@@ -416,7 +416,7 @@
     <tr>
         <td>
             <a href="https://cpanel.net/">
-                <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" title="CPanel" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
+                <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" title="CPanel" alt="CPanel" height="100" style="vertical-align:top; margin:4px" /> 
                 <div align="center">CPanel<div>
             </a>
         </td>
