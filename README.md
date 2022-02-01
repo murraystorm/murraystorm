@@ -11,12 +11,24 @@
 </p>
 
 <div align="center">
-    <img src="https://img.icons8.com/color/69/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/javascript.png" title="Javascript" alt="Javascript" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/python.png" title="Python" alt="Python" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/api-settings.png" title="REST APIs" alt="REST APIs" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
+    <a href="https://html.com/">
+        <img src="https://img.icons8.com/color/69/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://www.javascript.com/">
+        <img src="https://img.icons8.com/color/69/000000/javascript.png" title="Javascript" alt="Javascript" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://img.icons8.com/color/69/000000/python.png" title="Python" alt="Python" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://restfulapi.net/">
+        <img src="https://img.icons8.com/color/69/000000/api-settings.png" title="REST APIs" alt="REST APIs" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://www.mysql.com/">
+        <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://azure.microsoft.com/en-au/">
+        <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
+    </a>
 </div>
 
 ## Professional and Formal Credentials
@@ -429,12 +441,28 @@
     A few more tools I have worked with
 </p>
 <div align="center">
-    <img src="https://img.icons8.com/color/69/000000/git.png" title="Git" alt="git" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/github.png" title="Github" alt="Github" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/sublime-text.png" title="Sublime Text" alt="Sublime Text" style="vertical-align:top; margin:4px" />
-    <img src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" title="Atom" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/xcode.png" title="X-Code" alt="X-Code" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/slack-new.png" title="Slack" alt="Slack" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/microsoft-teams.png" title="Microsoft Teams" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
+    <a href="https://git-scm.com/">
+        <img src="https://img.icons8.com/color/69/000000/git.png" title="Git" alt="git" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://img.icons8.com/color/69/000000/github.png" title="Github" alt="Github" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://www.sublimetext.com/">
+        <img src="https://img.icons8.com/color/69/000000/sublime-text.png" title="Sublime Text" alt="Sublime Text" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://atom.io/">
+        <img src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" title="Atom" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://developer.apple.com/xcode/">
+        <img src="https://img.icons8.com/color/69/000000/xcode.png" title="X-Code" alt="X-Code" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://slack.com/">
+        <img src="https://img.icons8.com/color/69/000000/slack-new.png" title="Slack" alt="Slack" style="vertical-align:top; margin:4px" />
+    </a>
+    <a href="https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software">
+        <img src="https://img.icons8.com/color/69/000000/microsoft-teams.png" title="Microsoft Teams" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
+    </a>
 </div>
