@@ -26,6 +26,70 @@ A few relevant professional formal credentials that I have:
             <a href="https://www.credly.com/badges/7d6fb58a-ff2e-453f-906d-a9e5ee54462b">Microsoft Certified: Azure Fundamentals</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
+            <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Solutions Associate: Windows Server 2008</a>
+            <div>Credential ID D714-8122</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
+            <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified IT Professional: Server Administrator on Windows Server 2008</a>
+            <div>Credential ID A537-7250</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
+            <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Technology Specialist: Windows Server 2008 Active Directory Configuration</a>
+            <div>Credential ID A537-7248</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
+            <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Technology Specialist: Windows Server 2008 Network Infrastructure, Configuration</a>
+            <div>Credential ID A537-7249</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
+            <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Systems Administrator: Windows Server 2003</a>
+            <div>Credential ID A537-7233</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
+            <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Professional</a>
+            <div>Credential ID A537-7226</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/c/92/comptia.svg" title="Comptia" alt="Comptia" width="69" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
+            <div>CompTIA Security+</div>
+            <div>CompTIA Network+</div>
+            <div>CompTIA A+</div>
+        </td>
+    </tr>
 </table>
 
 
