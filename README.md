@@ -122,7 +122,8 @@
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/raspberry-pi.png" title="Raspberry Pi OS / Raspbian" alt="Raspberry Pi OS / Raspbian" style="vertical-align:top; margin:4px" />
-            <div align="center">Raspberry Pi OS<div>
+            <div align="center">Raspberry<div>
+            <div align="center">Pi OS<div>
         </td>
         <td>
             <div>Raspberry Pi OS / Raspbian 7 (Wheezy) and up</div>
