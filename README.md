@@ -7,7 +7,7 @@
 
 ## Professional Credentials
 
-A few relevant formal credentials
+A few relevant professional formal credentials that I have:
 
 <table align="center" style="padding:5px;">
     <tr>
