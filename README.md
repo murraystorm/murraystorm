@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
 </div>
 
-## Professional Credentials
+## Professional and Formal Credentials
 <p align="center">
     A few relevant professional formal credentials that I have
 </p>
