@@ -6,8 +6,9 @@
 </p>
 
 ## Professional Credentials
-
-A few relevant professional formal credentials that I have:
+<p align="center">
+    A few relevant professional formal credentials that I have
+</p>
 
 <table align="center" style="padding:5px;">
     <tr>
