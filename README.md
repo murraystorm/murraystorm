@@ -30,7 +30,7 @@ A few relevant professional formal credentials that I have:
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+            <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
         </td>
         <td>
             <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Solutions Associate: Windows Server 2008</a>
@@ -39,7 +39,7 @@ A few relevant professional formal credentials that I have:
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+            <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
         </td>
         <td>
             <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified IT Professional: Server Administrator on Windows Server 2008</a>
@@ -48,7 +48,7 @@ A few relevant professional formal credentials that I have:
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+            <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
         </td>
         <td>
             <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Technology Specialist: Windows Server 2008 Active Directory Configuration</a>
@@ -57,7 +57,7 @@ A few relevant professional formal credentials that I have:
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+            <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
         </td>
         <td>
             <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Technology Specialist: Windows Server 2008 Network Infrastructure, Configuration</a>
@@ -66,7 +66,7 @@ A few relevant professional formal credentials that I have:
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+            <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
         </td>
         <td>
             <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Systems Administrator: Windows Server 2003</a>
@@ -75,7 +75,7 @@ A few relevant professional formal credentials that I have:
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/m/14/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
+            <img src="https://cdn.cdnlogo.com/logos/m/95/microsoft.svg" title="Microsoft" alt="Microsoft" width="69" style="vertical-align:top; margin:4px" />
         </td>
         <td>
             <a href="https://mcp.microsoft.com/anonymous/transcript/validate">Microsoft Certified Professional</a>
