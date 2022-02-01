@@ -16,7 +16,6 @@
     <img src="https://img.icons8.com/color/69/000000/python.png" title="Python" alt="Python" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/api-settings.png" title="REST APIs" alt="REST APIs" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/debian.png" title="Debian" alt="Debian" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/github.png" title="Github" alt="Github" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
@@ -88,6 +87,26 @@
             <div>Microsoft Windows Server 2016</div>
             <div>Microsoft Windows Server 2019</div>
             <div>Microsoft Windows Server 2022</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/debian.png" title="Debian" alt="Debian" style="vertical-align:top; margin:4px" />
+            <div align="center">Debian Linux<div>
+        </td>
+        <td>
+            <div>Debian 3.0 (Woody)<div>
+            <div>Debian 3.1 (Sarge)<div>
+            <div>Debian 4.0 (Etch)<div>
+            <div>Debian 5.0 (Lenny)<div>
+            <div>Debian 6.0 (Squeeze)<div>
+            <div>Debian 7 (Wheezy)<div>
+            <div>Debian 8 (Jessie)<div>
+            <div>Debian 9 (Stretch)<div>
+            <div>Debian 10 (Buster)<div>
+            <div>Debian 11 (Bullseye)<div>
+            <div>Debian 12 (Bookworm)<div>
+            <div>Debian 13 (Trixie)<div>
         </td>
     </tr>
     <tr>
