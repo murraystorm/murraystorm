@@ -1,7 +1,7 @@
 ## Find me on:
 <p align="center">
     <a href="https://www.linkedin.com/in/murraystorm/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/69/000000/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:4px" />
     </a>
 </p>
 
@@ -12,19 +12,19 @@
 
 <div align="center">
     <a href="https://html.com/">
-        <img src="https://img.icons8.com/color/69/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://www.javascript.com/">
-        <img src="https://img.icons8.com/color/69/000000/javascript.png" title="Javascript" alt="Javascript" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/javascript.png" title="Javascript" alt="Javascript" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://www.python.org/">
-        <img src="https://img.icons8.com/color/69/000000/python.png" title="Python" alt="Python" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/python.png" title="Python" alt="Python" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://restfulapi.net/">
-        <img src="https://img.icons8.com/color/69/000000/api-settings.png" title="REST APIs" alt="REST APIs" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/api-settings.png" title="REST APIs" alt="REST APIs" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://www.mysql.com/">
-        <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://azure.microsoft.com/en-au/">
         <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
@@ -188,7 +188,7 @@
     <tr>
         <td>
             <a href="https://www.ruby-lang.org/en/">
-                <img src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" title="Ruby" alt="Ruby" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/color/100/000000/ruby-programming-language.png" title="Ruby" alt="Ruby" style="vertical-align:top; margin:4px" />
                 <div align="center">Ruby<div>
             </a>
         </td>
@@ -207,7 +207,7 @@
     <tr>
         <td>
             <a href="https://microsoft.com">
-                <img src="https://img.icons8.com/color/48/000000/windows-11.png" title="Microsoft Windows" alt="Microsoft Windows" height="69" style="vertical-align:top; margin:4px" /> 
+                <img src="https://img.icons8.com/color/100/000000/windows-11.png" title="Microsoft Windows" alt="Microsoft Windows" height="69" style="vertical-align:top; margin:4px" /> 
                 <div align="center">Microsoft<div>
                 <div align="center">Windows<div>
             </a>
@@ -239,7 +239,7 @@
     <tr>
         <td>
             <a href="https://docs.microsoft.com/powershell/">
-                <img src="https://img.icons8.com/color/48/000000/powershell.png" title="Windows PowerShell" alt="Windows PowerShell" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/color/100/000000/powershell.png" title="Windows PowerShell" alt="Windows PowerShell" style="vertical-align:top; margin:4px" />
                 <div align="center">Windows PowerShell<div>
             </a>
         </td>
@@ -253,7 +253,7 @@
     <tr>
         <td>
             <a href="https://www.debian.org/">
-                <img src="https://img.icons8.com/color/69/000000/debian.png" title="Debian" alt="Debian" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/color/100/000000/debian.png" title="Debian" alt="Debian" style="vertical-align:top; margin:4px" />
                 <div align="center">Debian Linux<div>
             </a>
         </td>
@@ -275,7 +275,7 @@
     <tr>
         <td>
             <a href="https://ubuntu.com/">
-                <img src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" title="Ubuntu Linux" alt="Ubuntu Linux" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/color/100/000000/ubuntu--v1.png" title="Ubuntu Linux" alt="Ubuntu Linux" style="vertical-align:top; margin:4px" />
                 <div align="center">Ubuntu<div>
             </a>
         </td>
@@ -313,7 +313,7 @@
     <tr>
         <td>
             <a href="https://www.raspberrypi.org/">
-                <img src="https://img.icons8.com/color/69/000000/raspberry-pi.png" title="Raspberry Pi OS / Raspbian" alt="Raspberry Pi OS / Raspbian" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/color/100/000000/raspberry-pi.png" title="Raspberry Pi OS / Raspbian" alt="Raspberry Pi OS / Raspbian" style="vertical-align:top; margin:4px" />
                 <div align="center">Raspberry<div>
                 <div align="center">Pi OS<div>
             </a>
@@ -325,7 +325,7 @@
     <tr>
         <td>
             <a href="https://www.apple.com/au/macos/">
-                <img src="https://img.icons8.com/color/69/000000/mac-logo.png" title="Mac OS" alt="Mac OS" style="vertical-align:top; margin:4px" />   
+                <img src="https://img.icons8.com/color/100/000000/mac-logo.png" title="Mac OS" alt="Mac OS" style="vertical-align:top; margin:4px" />   
                 <div align="center">MacOS<div>
             </a>
         </td>
@@ -350,7 +350,7 @@
     <tr>
         <td>
             <a href="https://www.apple.com/au/ios">
-                <img src="https://img.icons8.com/color/69/000000/ios-logo.png" title="iOS" alt="iOS" style="vertical-align:top; margin:4px" />   
+                <img src="https://img.icons8.com/color/100/000000/ios-logo.png" title="iOS" alt="iOS" style="vertical-align:top; margin:4px" />   
                 <div align="center">iOS<div>
             </a>
         </td>
@@ -387,7 +387,7 @@
     <tr>
         <td>
             <a href="https://www.iso.org/standard/74528.html">
-                <img src="https://img.icons8.com/color/69/000000/c-programming.png" title="C" alt="C" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/color/100/000000/c-programming.png" title="C" alt="C" style="vertical-align:top; margin:4px" />
                 <div align="center">C<div>
             </a>
         </td>
@@ -398,7 +398,7 @@
     <tr>
         <td>
             <a href="https://devblogs.microsoft.com/commandline/re-open-sourcing-ms-dos-1-25-and-2-0/">
-                <img src="https://img.icons8.com/color/69/000000/dos.png" title="MS-DOS" alt="MS-DOS" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/color/100/000000/dos.png" title="MS-DOS" alt="MS-DOS" style="vertical-align:top; margin:4px" />
                 <div align="center">MS-DOS<div>
             </a>
         </td>
@@ -427,7 +427,7 @@
      <tr>
         <td>
             <a href="https://aws.amazon.com/">
-                <img src="https://img.icons8.com/color/69/000000/amazon-web-services.png" title="Amazon Web Services" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/color/100/000000/amazon-web-services.png" title="Amazon Web Services" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
                 <div align="center">Amazon<div>
                 <div align="center">Web Services<div>
             </a>
@@ -443,7 +443,7 @@
     <tr>
         <td>
             <a href="https://cloudflare.com">
-                <img src="https://img.icons8.com/color/69/000000/cloudflare.png" title="CloudFlare" alt="CloudFlare" style="vertical-align:top; margin:4px" />
+                <img src="https://img.icons8.com/color/100/000000/cloudflare.png" title="CloudFlare" alt="CloudFlare" style="vertical-align:top; margin:4px" />
                 <div align="center">CloudFlare<div>
             </a>
         </td>
@@ -458,27 +458,27 @@
 </p>
 <div align="center">
     <a href="https://git-scm.com/">
-        <img src="https://img.icons8.com/color/69/000000/git.png" title="Git" alt="git" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/git.png" title="Git" alt="git" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://git-scm.com/">
-        <img src="https://img.icons8.com/color/69/000000/github.png" title="Github" alt="Github" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/github.png" title="Github" alt="Github" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://code.visualstudio.com/">
-        <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://www.sublimetext.com/">
-        <img src="https://img.icons8.com/color/69/000000/sublime-text.png" title="Sublime Text" alt="Sublime Text" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/sublime-text.png" title="Sublime Text" alt="Sublime Text" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://atom.io/">
         <img src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" title="Atom" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://developer.apple.com/xcode/">
-        <img src="https://img.icons8.com/color/69/000000/xcode.png" title="X-Code" alt="X-Code" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/xcode.png" title="X-Code" alt="X-Code" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://slack.com/">
-        <img src="https://img.icons8.com/color/69/000000/slack-new.png" title="Slack" alt="Slack" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/slack-new.png" title="Slack" alt="Slack" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software">
-        <img src="https://img.icons8.com/color/69/000000/microsoft-teams.png" title="Microsoft Teams" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
+        <img src="https://img.icons8.com/color/100/000000/microsoft-teams.png" title="Microsoft Teams" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
     </a>
 </div>
