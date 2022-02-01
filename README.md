@@ -28,19 +28,30 @@
     The unreasonably long list of some of the development tools, operating systems, environments, frameworks and languages I have successfully completed projects with in the past.
 </p>
 
-<div align="center">
-    <img src="https://img.icons8.com/color/69/000000/git.png" alt="git" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
-    <img src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
-    <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
-    <img src="https://img.icons8.com/color/69/000000/amazon-web-services.png" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Slack" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/microsoft-teams.png" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/office-365.png" alt="Microsoft Office 365" style="vertical-align:top; margin:4px" />
-</div>    
-
 <table align="center" style="padding:5px;">
+    <tr>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/amazon-web-services.png" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
+            <div align="center">Amazon<div>
+            <div align="center">Web Services<div>
+        </td>
+        <td>
+            <div>Lightsail</div>
+            <div>EC2 Instances</div>
+            <div>S3 Storage</div>
+            <div>Elastic Block Storage (EBS)</div>
+            <div>Amazon Relational Database Service (RDS) </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
+            <div align="center">CPanel<div>
+        </td>
+        <td>
+            WHM/CPanel based hosting, backend configuration, secure management and APIs
+        </td>
+    </tr>
     <tr>
         <td>
             <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
@@ -207,3 +218,11 @@
     </tr>
 </table>         
 
+<div align="center">
+    <img src="https://img.icons8.com/color/69/000000/git.png" alt="git" style="vertical-align:top; margin:4px" />
+    <img src="https://img.icons8.com/color/69/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
+    <img src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
+    <img src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
+    <img src="https://img.icons8.com/color/69/000000/slack-new.png" alt="Slack" style="vertical-align:top; margin:4px" />
+    <img src="https://img.icons8.com/color/69/000000/microsoft-teams.png" alt="Microsoft Teams" style="vertical-align:top; margin:4px" />
+</div>   
