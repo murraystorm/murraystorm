@@ -30,7 +30,6 @@
 
 <div align="center">
     <img src="https://img.icons8.com/color/69/000000/git.png" alt="git" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/xcode.png" alt="X-Code" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/sublime-text.png" alt="Sublime Text" style="vertical-align:top; margin:4px" />
     <img src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
@@ -42,6 +41,20 @@
 </div>    
 
 <table align="center" style="padding:5px;">
+    <tr>
+        <td>
+            <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
+            <div align="center">PHP<div>
+        </td>
+        <td>
+            <div>PHP 5.x</div>
+            <div>PHP 7.x</div>
+            <div>PHP 8.x</div>
+            <div>Laravel</div>
+            <div>WordPress</div>
+            <div>PHP Mailer</div>
+        </td>
+    </tr>
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" alt="Ruby" style="vertical-align:top; margin:4px" />
@@ -57,20 +70,6 @@
             <div>Ruby on Rails 5.x.x</div>
             <div>Ruby on Rails 6.x.x</div>
             <div>Ruby on Rails 7.0</div>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
-            <div align="center">PHP<div>
-        </td>
-        <td>
-            <div>PHP 5.x</div>
-            <div>PHP 7.x</div>
-            <div>PHP 8.x</div>
-            <div>Laravel</div>
-            <div>WordPress</div>
-            <div>PHP Mailer</div>
         </td>
     </tr>
     <tr>
@@ -109,7 +108,34 @@
             <div align="center">Ubuntu<div>
         </td>
         <td>
-            <div>Ubuntu - Everything from Warty to the modern stable releases, mostly on the server side</div>
+            <p>Primarily used for development servers with LTS support though there has been occasional desktop use from time to time</p>
+            <div>Ubuntu 4.10 (Warty Warthog)</div>
+            <div>Ubuntu 5.04 (Hoary Hedgehog)</div>
+            <div>Ubuntu 5.10 (Breezy Badger)</div>
+            <div>Ubuntu 6.06 LTS (Dapper Drake)</div>
+            <div>Ubuntu 6.10 (Edgy Eft)</div>
+            <div>Ubuntu 7.04 (Feisty Fawn)</div>
+            <div>Ubuntu 7.10 (Gutsy Gibbon)</div>
+            <div>Ubuntu 8.04 LTS (Hardy Heron)</div>
+            <div>Ubuntu 8.10 (Intrepid Ibex)</div>
+            <div>Ubuntu 9.04 (Jaunty Jackalope)</div>
+            <div>Ubuntu 9.10 (Karmic Koala)</div>
+            <div>Ubuntu 10.04 LTS (Lucid Lynx)</div>
+            <div>Ubuntu 12.04 LTS (Precise Pangolin)</div>
+            <div>Ubuntu 14.04 LTS (Trusty Tahr)</div>
+            <div>Ubuntu 16.04 LTS (Xenial Xerus)</div>
+            <div>Ubuntu 16.10 (Yakkety Yak)</div>
+            <div>Ubuntu 17.04 (Zesty Zapus)</div>
+            <div>Ubuntu 17.10 (Artful Aardvark)</div>
+            <div>Ubuntu 18.04 LTS (Bionic Beaver)</div>
+            <div>Ubuntu 18.10 (Cosmic Cuttlefish)</div>
+            <div>Ubuntu 19.04 (Disco Dingo)</div>
+            <div>Ubuntu 19.10 (Eoan Ermine)</div>
+            <div>Ubuntu 20.04 LTS (Focal Fossa)</div>
+            <div>Ubuntu 20.10 (Groovy Gorilla)</div>
+            <div>Ubuntu 21.04 (Hirsute Hippo)</div>
+            <div>Ubuntu 21.10 (Impish Indri)</div>
+            <div>Ubuntu 22.04 LTS (Jammy Jellyfish)</div>
         </td>
     </tr>
     <tr>
@@ -152,6 +178,14 @@
         </td>
         <td>
             <div>Slackware from around version 8.0 to 13.37 - primarily used in a custom "in-house" distro built on Slackware for multi purpose firewall appliances</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px" />
+            <div align="center">Contributed to community based development teams on multiple C based applications the largest of which were Telnet based applications and games such as MUDs with anywhere from dozens to tens of thousands of active users<div>
+        </td>
+        <td>
         </td>
     </tr>
     <tr>
