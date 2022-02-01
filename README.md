@@ -84,7 +84,7 @@ A few relevant professional formal credentials that I have:
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/c/92/comptia.svg" title="Comptia" alt="Comptia" width="69" style="vertical-align:top; margin:4px" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" title="Comptia" alt="Comptia" width="69" style="vertical-align:top; margin:4px" />
         </td>
         <td>
             <div>CompTIA Security+</div>
