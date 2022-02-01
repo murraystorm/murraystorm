@@ -238,6 +238,20 @@
     </tr>
     <tr>
         <td>
+            <a href="https://docs.microsoft.com/powershell/">
+                <img src="https://img.icons8.com/color/48/000000/powershell.png" title="Windows PowerShell" alt="Windows PowerShell" style="vertical-align:top; margin:4px" />
+                <div align="center">Windows PowerShell<div>
+            </a>
+        </td>
+        <td>
+            <div>Windows PowerShell 3.x</div>
+            <div>Windows PowerShell 4.x</div>
+            <div>Windows PowerShell 5.x</div>
+            <div>Windows PowerShell 7.x</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.debian.org/">
                 <img src="https://img.icons8.com/color/69/000000/debian.png" title="Debian" alt="Debian" style="vertical-align:top; margin:4px" />
                 <div align="center">Debian Linux<div>
