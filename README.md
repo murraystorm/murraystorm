@@ -45,41 +45,34 @@
     <tr>
         <td>
             <img src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" alt="Ruby" style="vertical-align:top; margin:4px" />
-            <div align="center" >Ruby<div>
+            <div align="center">Ruby<div>
         </td>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/r/18/rubygems.svg" alt="Ruby Gems" height="69" style="vertical-align:top; margin:4px" /> 
-            <div align="center">Ruby Gems<div>
-        </td>
-        <td>
-            <img src="https://cdn.cdnlogo.com/logos/r/26/rails.svg" alt="Ruby on Rails" height="40" style="vertical-align:top; margin:4px" />
-            <div align="center">Ruby on Rails<div>
+            <div>Ruby 1.9.x</div>
+            <div>Ruby 2.x.x</div>
+            <div>Ruby 3.x.x</div>
+            <div>Ruby Gems</div>
+            <div>Ruby on Rails 3.2.x</div>
+            <div>Ruby on Rails 4.x.x</div>
+            <div>Ruby on Rails 5.x.x</div>
+            <div>Ruby on Rails 6.x.x</div>
+            <div>Ruby on Rails 7.0</div>
         </td>
     </tr>
-</table>
-
-<table align="center" style="padding:5px;">
     <tr>
         <td>
             <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
-            <div align="center" >PHP<div>
+            <div align="center">PHP<div>
         </td>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" alt="Laravel" height="69" style="vertical-align:top; margin:4px" />
-            <div align="center">Laravel<div>
-        </td>
-        <td>
-            <img src="https://img.icons8.com/color/69/000000/wordpress.png" alt="WordPress" style="vertical-align:top; margin:4px" />
-            <div align="center">WordPress<div>
-        </td>
-        <td>
-            <img src="https://cdn.cdnlogo.com/logos/p/53/phpmailer.svg" alt="PHP Mailer" height="69" style="vertical-align:top; margin:4px" />
-            <div align="center">PHP Mailer<div>
+            <div>PHP 5.x</div>
+            <div>PHP 7.x</div>
+            <div>PHP 8.x</div>
+            <div>Laravel</div>
+            <div>WordPress</div>
+            <div>PHP Mailer</div>
         </td>
     </tr>
-</table>
-
-<table align="center" style="padding:5px;">
     <tr>
         <td>
             <img src="https://img.icons8.com/color/48/000000/windows-11.png" title="Microsoft Windows" alt="Microsoft Windows" height="69" style="vertical-align:top; margin:4px" /> 
@@ -144,17 +137,17 @@
             <div>Mac OS X 10.9 Mavericks</div>
             <div>Mac OS X 10.10 Yosemite</div>
             <div>Mac OS X 10.11 El Capitan</div>
-            <div>Mac macOS 10.12 Sierra</div>
-            <div>Mac macOS 10.13 High Sierra</div>
-            <div>Mac macOS 10.14 Mojave</div>
-            <div>Mac macOS 10.15 Catalina</div>
-            <div>Mac macOS 11 Big Sur</div>
-            <div>Mac macOS 12 Monterey</div>
+            <div>MacOS 10.12 Sierra</div>
+            <div>MacOS 10.13 High Sierra</div>
+            <div>MacOS 10.14 Mojave</div>
+            <div>MacOS 10.15 Catalina</div>
+            <div>MacOS 11 Big Sur</div>
+            <div>MacOS 12 Monterey</div>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" title="Slackware Linux" alt="Slackware Linux" height="69"style="vertical-align:top; margin:4px" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" title="Slackware Linux" alt="Slackware Linux" height="60"style="vertical-align:top; margin:4px" />
             <div align="center">Slackware<div>
         </td>
         <td>
