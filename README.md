@@ -88,7 +88,21 @@ A few relevant professional formal credentials that I have:
         </td>
         <td>
             <div>CompTIA Security+</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" title="Comptia" alt="Comptia" width="69" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
             <div>CompTIA Network+</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" title="Comptia" alt="Comptia" width="69" style="vertical-align:top; margin:4px" />
+        </td>
+        <td>
             <div>CompTIA A+</div>
         </td>
     </tr>
