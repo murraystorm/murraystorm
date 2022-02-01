@@ -7,7 +7,7 @@
 
 ## Current Core Skills:
 <p align="center">
-    Development tools, environments, frameworks and languages that I am currently focused on and using in projects
+    This is a list of Development tools, environments, frameworks and languages that I am currently focused on and using in active projects. At present this is a heavy focus on Azure and Flask based apps.
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/color/69/000000/javascript.png" title="Javascript" alt="Javascript" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/python.png" title="Python" alt="Python" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/cloudflare.png" title="CloudFlare" alt="CloudFlare" style="vertical-align:top; margin:4px" />
+    <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
     <img src="https://img.icons8.com/color/69/000000/debian.png" title="Debian" alt="Debian" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/github.png" title="Github" alt="Github" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" style="vertical-align:top; margin:4px" />
@@ -214,6 +214,15 @@
         </td>
         <td>
             WHM/CPanel based hosting, backend configuration, secure management and APIs
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.icons8.com/color/69/000000/cloudflare.png" title="CloudFlare" alt="CloudFlare" style="vertical-align:top; margin:4px" />
+            <div align="center">CloudFlare<div>
+        </td>
+        <td>
+            Mostly around hosting services, domains, reverse proxies, DNS services, HTTP/2, CDN and Security technologies
         </td>
     </tr>
 </table>         
