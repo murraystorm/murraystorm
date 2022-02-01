@@ -172,7 +172,7 @@
     <tr>
         <td>
             <a href="https://www.php.net/">
-                <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" title="PHP" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
+                <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" title="PHP" alt="PHP" height="80" style="vertical-align:top; margin:4px" />
                 <div align="center">PHP<div>
             </a>
         </td>
