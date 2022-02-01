@@ -131,7 +131,7 @@
 <table align="center" style="padding:5px;">
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
+            <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" title="PHP" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
             <div align="center">PHP<div>
         </td>
         <td>
@@ -145,7 +145,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" alt="Ruby" style="vertical-align:top; margin:4px" />
+            <img src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" title="Ruby" alt="Ruby" style="vertical-align:top; margin:4px" />
             <div align="center">Ruby<div>
         </td>
         <td>
@@ -258,7 +258,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/mac-logo.png" alt="Mac OS" style="vertical-align:top; margin:4px" />   
+            <img src="https://img.icons8.com/color/69/000000/mac-logo.png" title="Mac OS" alt="Mac OS" style="vertical-align:top; margin:4px" />   
             <div align="center">MacOS<div>
         </td>
         <td>
@@ -281,6 +281,30 @@
     </tr>
     <tr>
         <td>
+            <img src="https://img.icons8.com/color/48/000000/ios-logo.png" title="iOS" alt="iOS" style="vertical-align:top; margin:4px" />   
+            <div align="center">iOS and iPadOS<div>
+        </td>
+        <td>
+            <div>iPhone OS 3</div>
+            <div>iOS 4</div>
+            <div>iOS 5</div>
+            <div>iOS 6</div>
+            <div>iOS 7</div>
+            <div>iOS 8</div>
+            <div>iOS 9</div>
+            <div>iOS 10</div>
+            <div>iOS 11</div>
+            <div>iOS 12</div>
+            <div>iOS 13</div>
+            <div>iOS 14</div>
+            <div>iOS 15</div>
+            <div>iPadOS 13</div>
+            <div>iPadOS 14</div>
+            <div>iPadOS 15</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" title="Slackware Linux" alt="Slackware Linux" height="69"style="vertical-align:top; margin:4px" />
             <div align="center">Slackware<div>
         </td>
@@ -290,7 +314,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px" />
+            <img src="https://img.icons8.com/color/69/000000/c-programming.png" title="C" alt="C" style="vertical-align:top; margin:4px" />
             <div align="center">C<div>
         </td>
         <td>
@@ -315,7 +339,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
+            <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" title="CPanel" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
             <div align="center">CPanel<div>
         </td>
         <td>
@@ -324,7 +348,7 @@
     </tr>
      <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/amazon-web-services.png" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
+            <img src="https://img.icons8.com/color/69/000000/amazon-web-services.png" title="Amazon Web Services" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
             <div align="center">Amazon<div>
             <div align="center">Web Services<div>
         </td>
