@@ -14,10 +14,8 @@
     <img src="https://img.icons8.com/color/69/000000/html-5--v1.png" title="HTML" alt="HTML" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/javascript.png" title="Javascript" alt="Javascript" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/python.png" title="Python" alt="Python" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/api-settings.png" title="REST APIs" alt="REST APIs" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/github.png" title="Github" alt="Github" style="vertical-align:top; margin:4px" />
-    <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" style="vertical-align:top; margin:4px" />
+    <img src="https://img.icons8.com/color/69/000000/mysql-logo.png" title="MySQL" alt="MySQL" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/fluency/69/000000/azure-1.png" title="Microsoft Azure" alt="Microsoft Azure" style="vertical-align:top; margin:4px" />
 </div>
 
@@ -251,6 +249,8 @@
 </p>
 <div align="center">
     <img src="https://img.icons8.com/color/69/000000/git.png" title="Git" alt="git" style="vertical-align:top; margin:4px" />
+    <img src="https://img.icons8.com/color/69/000000/github.png" title="Github" alt="Github" style="vertical-align:top; margin:4px" />
+    <img src="https://img.icons8.com/color/69/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/sublime-text.png" title="Sublime Text" alt="Sublime Text" style="vertical-align:top; margin:4px" />
     <img src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" title="Atom" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
     <img src="https://img.icons8.com/color/69/000000/xcode.png" title="X-Code" alt="X-Code" style="vertical-align:top; margin:4px" />
