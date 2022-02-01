@@ -159,8 +159,10 @@
 <table align="center" style="padding:5px;">
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" title="PHP" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
-            <div align="center">PHP<div>
+            <a href="https://www.php.net/">
+                <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" title="PHP" alt="PHP" height="40" style="vertical-align:top; margin:4px" />
+                <div align="center">PHP<div>
+            </a>
         </td>
         <td>
             <div>PHP 5.x</div>
@@ -173,8 +175,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" title="Ruby" alt="Ruby" style="vertical-align:top; margin:4px" />
-            <div align="center">Ruby<div>
+            <a href="https://www.ruby-lang.org/en/">
+                <img src="https://img.icons8.com/color/69/000000/ruby-programming-language.png" title="Ruby" alt="Ruby" style="vertical-align:top; margin:4px" />
+                <div align="center">Ruby<div>
+            </a>
         </td>
         <td>
             <div>Ruby 1.9.x</div>
@@ -190,9 +194,11 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/48/000000/windows-11.png" title="Microsoft Windows" alt="Microsoft Windows" height="69" style="vertical-align:top; margin:4px" /> 
-            <div align="center">Microsoft<div>
-            <div align="center">Windows<div>
+            <a href="https://microsoft.com">
+                <img src="https://img.icons8.com/color/48/000000/windows-11.png" title="Microsoft Windows" alt="Microsoft Windows" height="69" style="vertical-align:top; margin:4px" /> 
+                <div align="center">Microsoft<div>
+                <div align="center">Windows<div>
+            </a>
         </td>
         <td>
             <p>Basically every major version of Windows since inception both client and server:</p>
@@ -220,8 +226,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/debian.png" title="Debian" alt="Debian" style="vertical-align:top; margin:4px" />
-            <div align="center">Debian Linux<div>
+            <a href="https://www.debian.org/">
+                <img src="https://img.icons8.com/color/69/000000/debian.png" title="Debian" alt="Debian" style="vertical-align:top; margin:4px" />
+                <div align="center">Debian Linux<div>
+            </a>
         </td>
         <td>
             <div>Debian 3.0 (Woody)<div>
@@ -240,8 +248,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" title="Ubuntu Linux" alt="Ubuntu Linux" style="vertical-align:top; margin:4px" />
-            <div align="center">Ubuntu<div>
+            <a href="https://ubuntu.com/">
+                <img src="https://img.icons8.com/color/69/000000/ubuntu--v1.png" title="Ubuntu Linux" alt="Ubuntu Linux" style="vertical-align:top; margin:4px" />
+                <div align="center">Ubuntu<div>
+            </a>
         </td>
         <td>
             <p>Primarily used for development servers with LTS support though there has been occasional desktop use from time to time</p>
@@ -276,9 +286,11 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/raspberry-pi.png" title="Raspberry Pi OS / Raspbian" alt="Raspberry Pi OS / Raspbian" style="vertical-align:top; margin:4px" />
-            <div align="center">Raspberry<div>
-            <div align="center">Pi OS<div>
+            <a href="https://www.raspberrypi.org/">
+                <img src="https://img.icons8.com/color/69/000000/raspberry-pi.png" title="Raspberry Pi OS / Raspbian" alt="Raspberry Pi OS / Raspbian" style="vertical-align:top; margin:4px" />
+                <div align="center">Raspberry<div>
+                <div align="center">Pi OS<div>
+            </a>
         </td>
         <td>
             <div>Raspberry Pi OS / Raspbian 7 (Wheezy) and up</div>
@@ -286,8 +298,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/mac-logo.png" title="Mac OS" alt="Mac OS" style="vertical-align:top; margin:4px" />   
-            <div align="center">MacOS<div>
+            <a href="https://www.apple.com/au/macos/">
+                <img src="https://img.icons8.com/color/69/000000/mac-logo.png" title="Mac OS" alt="Mac OS" style="vertical-align:top; margin:4px" />   
+                <div align="center">MacOS<div>
+            </a>
         </td>
         <td>
             <p>Most versions since Tiger:</p>
@@ -309,8 +323,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/ios-logo.png" title="iOS" alt="iOS" style="vertical-align:top; margin:4px" />   
-            <div align="center">iOS<div>
+            <a href="https://www.apple.com/au/ios">
+                <img src="https://img.icons8.com/color/69/000000/ios-logo.png" title="iOS" alt="iOS" style="vertical-align:top; margin:4px" />   
+                <div align="center">iOS<div>
+            </a>
         </td>
         <td>
             <div>iPhone OS 3</div>
@@ -333,8 +349,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" title="Slackware Linux" alt="Slackware Linux" height="69"style="vertical-align:top; margin:4px" />
-            <div align="center">Slackware<div>
+            <a href="http://www.slackware.com/">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" title="Slackware Linux" alt="Slackware Linux" height="69"style="vertical-align:top; margin:4px" />
+                <div align="center">Slackware<div>
+            </a>
         </td>
         <td>
             <div>Slackware from around version 8.0 to 13.37 - primarily used in a custom "in-house" distro built on Slackware for multi purpose firewall appliances</div>
@@ -351,8 +369,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/dos.png" title="MS-DOS" alt="MS-DOS" style="vertical-align:top; margin:4px" />
-            <div align="center">MS-DOS<div>
+            <a href="https://devblogs.microsoft.com/commandline/re-open-sourcing-ms-dos-1-25-and-2-0/">
+                <img src="https://img.icons8.com/color/69/000000/dos.png" title="MS-DOS" alt="MS-DOS" style="vertical-align:top; margin:4px" />
+                <div align="center">MS-DOS<div>
+            </a>
         </td>
         <td>
             <p>Getting into the real old 5¼-inch floppy days if your this far down the list but here we go:</p>
@@ -367,8 +387,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" title="CPanel" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
-            <div align="center">CPanel<div>
+            <a href="https://cpanel.net/">
+                <img src="https://cdn.cdnlogo.com/logos/c/90/cpanel.png" title="CPanel" alt="CPanel" height="69" style="vertical-align:top; margin:4px" /> 
+                <div align="center">CPanel<div>
+            </a>
         </td>
         <td>
             WHM/CPanel based hosting, backend configuration, secure management and APIs
@@ -376,9 +398,11 @@
     </tr>
      <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/amazon-web-services.png" title="Amazon Web Services" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
-            <div align="center">Amazon<div>
-            <div align="center">Web Services<div>
+            <a href="https://aws.amazon.com/">
+                <img src="https://img.icons8.com/color/69/000000/amazon-web-services.png" title="Amazon Web Services" alt="Amazon Web Services" style="vertical-align:top; margin:4px" />
+                <div align="center">Amazon<div>
+                <div align="center">Web Services<div>
+            </a>
         </td>
         <td>
             <div>Lightsail</div>
@@ -390,8 +414,10 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/cloudflare.png" title="CloudFlare" alt="CloudFlare" style="vertical-align:top; margin:4px" />
-            <div align="center">CloudFlare<div>
+            <a href="https://cloudflare.com">
+                <img src="https://img.icons8.com/color/69/000000/cloudflare.png" title="CloudFlare" alt="CloudFlare" style="vertical-align:top; margin:4px" />
+                <div align="center">CloudFlare<div>
+            </a>
         </td>
         <td>
             Mostly around hosting services, domains, reverse proxies, DNS services, HTTP/2, CDN and Security technologies
