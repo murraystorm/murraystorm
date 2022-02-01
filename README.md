@@ -372,11 +372,13 @@
     </tr>
     <tr>
         <td>
-            <img src="https://img.icons8.com/color/69/000000/c-programming.png" title="C" alt="C" style="vertical-align:top; margin:4px" />
-            <div align="center">C<div>
+            <a href="https://www.iso.org/standard/74528.html">
+                <img src="https://img.icons8.com/color/69/000000/c-programming.png" title="C" alt="C" style="vertical-align:top; margin:4px" />
+                <div align="center">C<div>
+            </a>
         </td>
         <td>
-            Contributed to community based development teams on multiple C based applications the largest of which were Telnet based applications and games such as MUDs with anywhere from dozens to tens of thousands of active users
+            I've contributed to community team based development teams on multiple C based applications the largest of which were Telnet based applications and games such as MUDs with anywhere from dozens to tens of thousands of active users
         </td>
     </tr>
     <tr>
