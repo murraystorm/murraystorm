@@ -470,7 +470,7 @@
         <img src="https://img.icons8.com/color/100/000000/sublime-text.png" title="Sublime Text" alt="Sublime Text" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://atom.io/">
-        <img src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" title="Atom" alt="Atom" height="50" style="vertical-align:top; margin:4px" />
+        <img src="https://cdn.cdnlogo.com/logos/a/75/atom.svg" title="Atom" alt="Atom" height="75" style="vertical-align:top; margin:4px" />
     </a>
     <a href="https://developer.apple.com/xcode/">
         <img src="https://img.icons8.com/color/100/000000/xcode.png" title="X-Code" alt="X-Code" style="vertical-align:top; margin:4px" />
