@@ -169,7 +169,7 @@
         </td>
         <td>
             <div>
-                <a href="https://courses.edx.org/certificates/b6d6cc0c92e84d1b8b579bbbba7ae331">HarvardX CS50</a>
+                <a href="https://courses.edx.org/certificates/b6d6cc0c92e84d1b8b579bbbba7ae331">HarvardX CS50x</a>
             </div>
         </td>
     </tr>
