@@ -161,6 +161,18 @@
             </div>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://courses.edx.org/certificates/b6d6cc0c92e84d1b8b579bbbba7ae331">
+                <img src="https://cdn.cdnlogo.com/logos/h/42/harvard-crimson.svg" title="Harvard University" alt="Harvard University" width="100" style="vertical-align:top; margin:4px" />
+            </a>
+        </td>
+        <td>
+            <div>
+                <a href="https://courses.edx.org/certificates/b6d6cc0c92e84d1b8b579bbbba7ae331">HarvardX CS50</a>
+            </div>
+        </td>
+    </tr>
 </table>
 
 ## Other Skills:
